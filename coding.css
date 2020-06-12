@@ -210,6 +210,6 @@ nav a:hover::before{
   background-color: #ffffff00;
   justify-content: flex-start;
   flex-direction: column;
-  padding-bottom: 200px;
+  padding-bottom: 350px;
 
 }
